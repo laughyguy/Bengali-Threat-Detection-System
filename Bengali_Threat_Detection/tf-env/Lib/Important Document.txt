@@ -1,0 +1,2 @@
+Here there are 2 library named python and include
+After downloading the whole document (Bengali Threat Detection) these two library named python and include should be placed in the particular path (C:\Users\SUBHADIP DAS\Documents\GitHub\Bengali-Threat-Call-Detection-System\Bengali_Threat_Detection\tf-env\Lib\site-packages\tensorflow)
